@@ -79,3 +79,13 @@ body {
     line-height: 150%;
     font-size: x-large;
 }
+
+hr {
+    border: 0;
+    background-color: #333;
+    height: 1px;
+    margin: 0 25px;
+    width: 300px;
+}
+
+#main { background: #f7f7e9 }

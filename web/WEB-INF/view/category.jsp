@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -19,6 +13,10 @@ and open the template in the editor.
             [ language toggle ]
         </div>
 
+         <div class="headerWidget">
+            [ checkout button ]
+        </div>        
+                
         <div class="headerWidget">
             [ shopping cart widget ]
         </div>

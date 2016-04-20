@@ -1,6 +1,6 @@
 <%-- 
-    Document   : cart
-    Created on : Apr 19, 2016, 11:57:07 AM
+    Document   : checkout
+    Created on : Apr 19, 2016, 11:57:31 AM
     Author     : zhart
 --%>
 
